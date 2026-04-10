@@ -11,6 +11,13 @@ We added this function to your `~/.bash/functions.sh` to allow downloading and s
 ```bash
 setwall <IMAGE_URL>
 ```
+```bash
+setwall <path to file>
+```
+**Set icon terminal**
+```bash
+setanime <path to image.png>
+```
 
 **What it does:**
 *   **Downloads** the image to `~/Downloads/wallpaper_YYYYMMDD_HHMMSS.ext`.
